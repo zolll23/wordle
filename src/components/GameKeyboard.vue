@@ -64,16 +64,16 @@ export default {
 
 .key {
   cursor: pointer;
-  min-width: 18px;
-  height: 18px;
+  min-width: 22px;
+  height: 22px;
   font-size: 12px;
-  line-height: 18px;
+  line-height: 22px;
   font-weight: bold;
   color: #39638d;
   text-transform: uppercase;
   border: 1px solid #e0e0e0;
-  margin-left: 3px;
-  margin-right: 3px;
+  margin-left: 1px;
+  margin-right: 1px;
   border-radius: 4px;
   webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -84,7 +84,7 @@ export default {
 }
 
 .key:last-child {
-  width: 48px;
+  width: 52px;
 }
 
 .disabled {
